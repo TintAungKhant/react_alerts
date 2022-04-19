@@ -1,0 +1,8 @@
+.alerts {
+    position: fixed;
+    width: 300px;
+    right: 0;
+    top: 0;
+    max-height: 100vh;
+    overflow-y: auto;
+}
